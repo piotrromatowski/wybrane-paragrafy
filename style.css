@@ -1,0 +1,27 @@
+body, 
+
+p {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+
+.p2 {
+    background-color: blue;
+}
+
+.p3 {
+    background-color: green;
+}
+
+.p4 {
+    background-color: greenyellow;
+}
+
+.p5 {
+    opacity: 0.3;
+}
+
+.p6 {
+    opacity: 0.1;
+}
